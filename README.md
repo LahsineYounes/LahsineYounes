@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **LahsineYounes/LahsineYounes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" width="40" style="vertical-align: middle;">
   </a>
 </p>
-    
-    
+
+
 <h3 align="left">🔘 Languages and Tools :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" alt="xml" width="40" height="40"/> 
-  </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> 
         </a>
         <a href="https://www.w3schools.com/bootstrap5/" target="_blank" rel="noreferrer"> 
