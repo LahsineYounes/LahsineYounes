@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm YOUNES</h1>
-<img style="display: block; margin: 0 auto;" align="center" width="250" alt="Coding" src="https://i.gifer.com/QDyD.gif">
+<p align="center">
+  <img width="250" alt="Coding" src="https://img.freepik.com/free-photo/view-desk-with-computer-decorations_23-2150804984.jpg?t=st=1701704033~exp=1701707633~hmac=0a822a9e18abc92cd2d124bd26743b6def1ce2bad86e838c4e7892f8bebb8ef5&w=2000">
+</p>
 <h3 align="center">A creative & Ambitious Mobile Application Developer</h3>
-    
+      
 - I am a developer with a passion for creating apps for  Android & iOS.
 <p></p>
     
