@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm YOUNES</h1>
 <p align="center">
-  <img width="250" alt="Coding" src="https://img.freepik.com/free-photo/view-desk-with-computer-decorations_23-2150804984.jpg?t=st=1701704033~exp=1701707633~hmac=0a822a9e18abc92cd2d124bd26743b6def1ce2bad86e838c4e7892f8bebb8ef5&w=2000">
+  <img width="350" alt="Coding" src="https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?w=2000&t=st=1701704626~exp=1701705226~hmac=3e218fd4a8515746f6980fe5c2fdc0d9a7a4d0a81420cc11ec2070c6580323e1">
 </p>
 <h3 align="center">A creative & Ambitious Mobile Application Developer</h3>
       
