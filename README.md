@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm YOUNES</h1>
-<p align="center">
-  <img width="350" alt="Coding" src="https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?w=2000&t=st=1701704626~exp=1701705226~hmac=3e218fd4a8515746f6980fe5c2fdc0d9a7a4d0a81420cc11ec2070c6580323e1">
-</p>
+
 <h3 align="center">A creative & Ambitious Mobile Application Developer</h3>
       
 - I am a developer with a passion for creating apps for  Android & iOS.
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="left">🔘 Languages and Tools :</h3>
+<h3 align="left">🔘 Skills and Tools :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
