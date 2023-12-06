@@ -1,18 +1,5 @@
 <!--
 ### Hi there 👋
-
-**LahsineYounes/LahsineYounes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
@@ -20,16 +7,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">A creative & Ambitious Mobile Application Developer</h3>
       
-- I am a developer with a passion for creating apps for  Android & iOS.
 <p></p>
     
-- I have significant experience in the Design, Development & Deployment of mobile applications.
+- Effective communicator and able to work with multidisciplinary teams to achieve common goals.
 <p></p>
     
-- I am an effective communicator and able to work with multidisciplinary teams to achieve common goals.
-<p></p>
-    
-- I am constantly looking for new techniques and trends to improve my skills and provide innovative solutions.
+- Constantly looking for new techniques and trends to improve my skills and provide innovative solutions.
 <p></p>
     
 - Know more about me [MyPortfolio.com](MyPortfolio.com)
