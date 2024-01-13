@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm YOUNES</h1>
 
-<h3 align="center">A creative & Ambitious Mobile Application Developer</h3>
+<h3 align="center">A creative & Ambitious Mobile Developer</h3>
       
 <p></p>
     
