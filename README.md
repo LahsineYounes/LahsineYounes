@@ -17,7 +17,7 @@
 <p></p>
 <p></p>
 
-Know more about me [MyPortfolio.com](https://lahsineyounes.github.io/YL-portfolio/)
+Know more about me [MyPortfolio.com](https://lahsineyounes.github.io/YL/)
 <p></p>
 
 
